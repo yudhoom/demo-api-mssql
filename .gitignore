@@ -38,4 +38,3 @@ demo-api-mssql/obj
 
 # local sqlite db that is auto generated
 demo-api-mssql/LocalDatabase.db
-demo-api-mssql/appsettings.json
